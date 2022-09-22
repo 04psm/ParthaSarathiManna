@@ -1,3 +1,3 @@
 # ParthaSarathiManna
 
-Hey there https://04psm.github.io/ParthaSarathiManna/
+ <a href="https://partha-sarathi-manna.netlify.app/"> Go live </a>
